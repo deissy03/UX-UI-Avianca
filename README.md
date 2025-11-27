@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/deissy03/UX-UI-Avianca/blob/main/imagen..png?raw=true" alt="Banner del proyecto" width="100%">
 </p>
-
 ## 👩‍💻 Autora  
 **Deisy Esther Esquivia Pérez**  
 Diseñadora UX/UI · Fullstack Developer  
