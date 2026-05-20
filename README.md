@@ -86,28 +86,27 @@ Se realizó un rediseño completo UX/UI aplicando investigación, arquitectura d
 ---
 
 ##  Evidencia visual
-## 🖼 Evidencia visual
 
 ### Home original
 ![Home](home.png)
 
-### Búsqueda de vuelos
-![Busqueda](busqueda.png)
+### vuelo
+![vuelos](vuelos.png)
+
+### formulario
+![formulario](formulario.png)
+### pagos
+![pagosos](pagos.png)
 
 ### Check-in
 ![Checkin](checkin.png)
 
-### formulario
-![formulario](formulario.png)
-
-### vuelo
-![vuelos](vuelos.png)
-
 ### pasabordos 
 ![pasabordos](pasabordos.png)
 
-### pagos
-![pagosos](pagos.png)
+
+
+
 
 
 
