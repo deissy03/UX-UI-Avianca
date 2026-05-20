@@ -86,7 +86,22 @@ Se realizó un rediseño completo UX/UI aplicando investigación, arquitectura d
 ---
 
 ##  Evidencia visual
+## 🖼 Evidencia visual
 
+### Home original
+![Home](home.png)
+
+### Búsqueda de vuelos
+![Busqueda](avianca-busqueda.png)
+
+### Check-in
+![Checkin](checkin.png)
+
+### formulario
+![formulario](formulario.png)
+
+### vuelo
+![vuelos](vuelo.png)
 
 
 ---
