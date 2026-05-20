@@ -92,7 +92,7 @@ Se realizó un rediseño completo UX/UI aplicando investigación, arquitectura d
 ![Home](home.png)
 
 ### Búsqueda de vuelos
-![Busqueda](avianca-busqueda.png)
+![Busqueda](busqueda.png)
 
 ### Check-in
 ![Checkin](checkin.png)
@@ -101,7 +101,15 @@ Se realizó un rediseño completo UX/UI aplicando investigación, arquitectura d
 ![formulario](formulario.png)
 
 ### vuelo
-![vuelos](vuelo.png)
+![vuelos](vuelos.png)
+
+### pasabordos 
+![pasabordos](pasabordos.png)
+
+### pagos
+![pagosos](pagos.png)
+
+
 
 
 ---
