@@ -87,7 +87,7 @@ Se realizó un rediseño completo UX/UI aplicando investigación, arquitectura d
 
 ##  Evidencia visual
 
-### Home original
+### Home 
 ![Home](home.png)
 
 ### vuelo
@@ -103,12 +103,6 @@ Se realizó un rediseño completo UX/UI aplicando investigación, arquitectura d
 
 ### pasabordos 
 ![pasabordos](pasabordos.png)
-
-
-
-
-
-
 
 
 ---
