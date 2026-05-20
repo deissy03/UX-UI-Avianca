@@ -1,88 +1,106 @@
+
+#  Rediseño UX/UI — Avianca
+
 <p align="center">
   <img src="https://github.com/deissy03/UX-UI-Avianca/blob/main/imagen..png?raw=true" alt="Banner del proyecto" width="100%">
 </p>
-## 👩‍💻 Autora  
+
+---
+
+##  Autora  
 **Deisy Esther Esquivia Pérez**  
 Diseñadora UX/UI · Fullstack Developer  
-**LinkedIn:** https://www.linkedin.com/in/deisy-esquivia-fullstack-devolper/  
-**GitHub:** https://github.com/deissy03  
+
+🔗 LinkedIn: https://www.linkedin.com/in/deisy-esquivia-fullstack-devolper/  
+🔗 GitHub: https://github.com/deissy03  
 
 ---
 
-## 📘 Descripción del Proyecto  
-Este proyecto corresponde al **rediseño UX/UI de la plataforma web de Avianca**, enfocado en mejorar la experiencia durante dos flujos críticos:
+##  Descripción del proyecto
 
-- **Compra de tiquetes (ida y vuelta)**  
-- **Check-in online**
+Este proyecto consiste en el **rediseño UX/UI de la plataforma web de Avianca**, enfocado en mejorar la experiencia de usuario en dos flujos críticos:
 
-El objetivo principal fue **optimizar claridad, reducir fricción, fortalecer la confianza del usuario y modernizar la interacción visual**, manteniendo la identidad corporativa de la marca.
+- Compra de tiquetes (ida y vuelta)  
+- Check-in online  
 
-El documento completo incluye análisis, arquitectura, wireframes, prototipos y testeo con usuarios reales.
-
----
-
-## 🧩 Entregables incluidos en el repositorio  
-- `rediseño-final.pptx` — Caso de estudio completo (con links al prototipo).  
-- Documentación UX:  
-  - Benchmark competitivo  
-  - Análisis heurístico  
-  - Encuestas y hallazgos  
-  - User Persona  
-  - Journey Map  
-  - Lean UX Canvas  
-  - Matriz MFVD  
-  - Arquitectura original y rediseñada  
-  - Tree Testing con conclusiones  
-  - Taskflows & Wireflows  
-  - Wireframes de alta fidelidad  
-  - Guía de estilo y Design System  
-  - Motion UI  
-  - Testeo con matrices de eficacia, eficiencia y satisfacción  
-  - Conclusiones y próximos pasos  
-
-## 🎨 Prototipo (Figma)  
-El enlace al prototipo se encuentra **dentro del documento `.pptx`**, en la sección de prototipos..
-
-## 🛠️ Proceso UX aplicado  
-Este proyecto fue desarrollado siguiendo un proceso completo basado en:
-
-- **Investigación cualitativa y cuantitativa**  
-- **Heurísticas de Nielsen**  
-- **Benchmarking**  
-- **Rediseño de arquitectura de información**  
-- **Tree testing real**  
-- **Prototipado de alta fidelidad**  
-- **Design System con metodología Atomic Design**  
-- **Microinteracciones y Motion UI**  
-- **Testeos remotos moderados**  
+El objetivo fue reducir fricción, mejorar la claridad visual, optimizar la arquitectura de información y aumentar la confianza del usuario.
 
 ---
 
-## 📊 Principales hallazgos  
-- Fricción en formularios extensos y repetición de pasos.  
-- Dificultad para **comparar tarifas** y entender servicios adicionales.  
-- El check-in actual es funcional.  
-- El rediseño permite:  
-  - Reducir pasos innecesarios  
-  - Mejorar claridad visual  
-  - Aumentar rapidez percibida  
-  - Generar mayor confianza  
+## Problema identificado
+
+- Procesos extensos y poco claros en la compra de tiquetes  
+- Dificultad para comparar tarifas y servicios  
+- Experiencia poco intuitiva en el flujo de check-in  
+- Sobrecarga de información en pantallas clave  
 
 ---
 
-## 🚀 Resultados del rediseño  
-Tras el testeo remoto moderado:
+##  Solución propuesta
 
-- **100% de usuarios completaron ambas tareas** sin bloqueos  
-- La nueva interfaz se percibió **más clara, moderna y confiable**  
-- El flujo de **check-in** recibió la valoración más alta  
-- Se identificaron oportunidades de mejora (calendario y estados visuales)  
+Se realizó un rediseño completo UX/UI aplicando investigación, arquitectura de información y prototipado en Figma para:
 
-
-## 🧾 Licencia  
-Este proyecto es una demostración académica para fines educativos y de portafolio.
+- Reducir pasos innecesarios  
+- Mejorar la claridad visual  
+- Facilitar la toma de decisiones  
+- Modernizar la experiencia de usuario  
 
 ---
 
-## ❤️ Agradecimientos  
-A Coderhouse, al profesor Alan Figueroa y la tutora Belen Díaz  por la guía durante el curso. 
+##  Proceso UX aplicado
+
+- Investigación cualitativa y cuantitativa  
+- Benchmark competitivo  
+- Análisis heurístico (Nielsen)  
+- Encuestas y hallazgos de usuarios  
+- User Persona  
+- Journey Map  
+- Lean UX Canvas  
+- Arquitectura de información  
+- Tree testing  
+- Wireflows y taskflows  
+- Wireframes de baja y alta fidelidad  
+- Prototipado en Figma  
+- Design System (Atomic Design)  
+- Motion UI  
+- Testeo de usabilidad  
+
+---
+## Resultados del testeo
+
+- 100% de usuarios completaron las tareas sin bloqueos  
+- Mayor claridad en el flujo de compra  
+- Experiencia de check-in mejor evaluada  
+- Mejora en percepción de confianza y rapidez  
+
+---
+
+##  Entregables
+
+- Documento completo de rediseño (`rediseño-final.pdf`)  
+- Prototipo en Figma (enlace dentro del documento)  
+- Wireframes y arquitectura UX  
+- Design System  
+- Testeo de usabilidad  
+
+---
+
+##  Evidencia visual
+
+<p align="center">
+  <img src="imagen..png" alt="Vista del proyecto" width="100%">
+</p>
+
+---
+
+##  Licencia
+
+Proyecto académico con fines educativos y de portafolio.
+
+---
+
+##  Agradecimientos
+
+A Coderhouse, al profesor Alan Figueroa y a la tutora Belén Díaz por la guía durante el proceso.
+
+
