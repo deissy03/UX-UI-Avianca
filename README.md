@@ -87,9 +87,7 @@ Se realizó un rediseño completo UX/UI aplicando investigación, arquitectura d
 
 ##  Evidencia visual
 
-<p align="center">
-  <img src="imagen..png" alt="Vista del proyecto" width="100%">
-</p>
+
 
 ---
 
